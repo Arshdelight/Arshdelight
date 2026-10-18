@@ -28,13 +28,6 @@ AI agent orchestration + tool rendering built on Vercel AI SDK. Published on npm
 
 One-command scaffolding for an Electron + React + TypeScript desktop app, with the boring parts (build, packaging, mirrors) pre-configured.
 
-<!-- 以下两个花活板块你没选，先注释掉。想要的话把对应段落移出注释即可 -->
+---
 
-## 📊 GitHub Stats
-
-[![Liz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshdelight&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-访问计数器（放在任意位置）：
-![](https://komarev.com/ghpvc/?username=Arshdelight&color=blueviolet&style=flat)
-
--->
+*Last updated: Oct 18, 2026*
